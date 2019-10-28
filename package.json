@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "server.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [],
+  "author": "sujan panda",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.1.5",
+    "express-session": "^1.15.6",
+    "express-validator": "^5.3.0",
+    "jimp": "^0.6.4",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.4.0"
+  }
+}
